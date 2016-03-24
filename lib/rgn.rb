@@ -11,6 +11,7 @@ class Rgn
 			@randomName += str
 		end
 		
+		return @randomName
   end
 
 	def autoGen
