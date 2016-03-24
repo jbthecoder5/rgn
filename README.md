@@ -1,8 +1,8 @@
 # Rgn
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rgn`. To experiment with that code, run `bin/console` for an interactive prompt.
+RGN short for Random generated name, is a ruby gem to allows users to automate random strings in their ruby apps.
 
-TODO: Delete this and the text above, and describe your gem
+
 
 ## Installation
 
@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+ #If you're just developing a non-rails app in ruby, then just import the following code inside your file: <b><i><code> require 'rgn' </code></i></b>
 
 ## Development
 
@@ -32,8 +32,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/rgn/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+1. Fork it ( https://github.com/kiratuchi/rgn/fork )
