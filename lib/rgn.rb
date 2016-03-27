@@ -23,4 +23,8 @@ module Rgn
 	def lowGen
 		randomName.lowercase!
 	end
+
+	def randomizer
+
+	end
 end
