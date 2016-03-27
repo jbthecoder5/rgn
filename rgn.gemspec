@@ -9,10 +9,6 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Joseph P Bourne"]
   spec.email         = ["kiratsuchi@live.com"]
 
-  if spec.respond_to?(:metadata)
-    spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com' to prevent pushes to rubygems.org, or delete to allow pushes to any server."
-  end
-
   spec.summary       = %q{A ruby gem that generates a random name/string for users.}
   spec.description   = %q{Used to create random names and allow users to flag/disabled specific usernames.}
   spec.homepage      = "https://github.com/kiratsuchi/rgn"
