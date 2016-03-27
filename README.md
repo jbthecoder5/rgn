@@ -1,3 +1,5 @@
+https://rubygems.org/gems/rgn
+
 # Rgn
 
 RGN short for Random generated name, is a ruby gem to allows users to automate random strings in their ruby apps.
@@ -27,4 +29,4 @@ If you're just developing a non-rails app in ruby, then just import the followin
 
 ## Contributing
 
-1. Fork it ( https://github.com/kiratuchi/rgn/fork )
+Any help towards the project is appreciated.  <b>:)</b>
