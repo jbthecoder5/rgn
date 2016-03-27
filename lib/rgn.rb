@@ -24,7 +24,14 @@ module Rgn
 		randomName.lowercase!
 	end
 
-	def randomizer
+	# this method allows you to blacklist specific names
+	def blacklist
+
+	end
+
+
+	# algorithm used to generate random name based off gender
+	def gend
 
 	end
 end
