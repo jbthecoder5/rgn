@@ -16,7 +16,7 @@ gem 'rgn'
 
 And then execute:
 
-    $ bundle
+    $ bundle install
 
 Or install it yourself as:
 
@@ -26,7 +26,16 @@ Or install it yourself as:
 
 If you're just developing a non-rails app in ruby, then just import the following code inside your file: <b><i><code> require 'rgn' </code></i></b>
 
+## How to use
 
+<ul>
+<li>Input <b><i><code>require 'rgn'</code></i></b> at the beginning of the ruby file.</li>
+<li>Input <b><i><code>include Rgn</code></i></b> after the require statement.</li>
+<li>Next, declare a variable to contain generator function. For example, <b><i><code>randomStr = generateName </code></i></b>
+<br>
+<b><i><code>puts #{randomStr} or puts randomStr</code></i></b>
+</li>
+</ul>
 ## Contributing
 
 Any help towards the project is appreciated.  <b>:)</b>
