@@ -33,9 +33,9 @@ If you're just developing a non-rails app in ruby, then just import the followin
 <li>Input <b><i><code>include Rgn</code></i></b> after the require statement.</li>
 <li>Next, declare a variable to contain generator function. For example, <b><i><code>randomStr = generateName </code></i></b>
 <br>
-<b><i><code>puts #{randomStr} or puts randomStr</code></i></b>
+Then enter: <b><i><code>puts #{randomStr} or puts randomStr</code></i></b> to generate random string.
 </li>
 </ul>
 ## Contributing
 
-Any help towards the project is appreciated.  <b>:)</b>
+More features coming soon. Any help towards the project is appreciated.  <b>:)</b>
