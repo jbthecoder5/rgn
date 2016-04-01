@@ -26,12 +26,12 @@ module Rgn
 
 	# this method allows you to blacklist specific names
 	def blacklist
+		print "Specify the name you want blacklisted: \n"
+		bannedNames = gets.chomp.to_s
 
-	end
-
-
-	# algorithm used to generate random name based off gender
-	def gend
-
+		if(return randomName == bannedNames)
+				randomName = "default"
+				return randomName
+		end
 	end
 end
