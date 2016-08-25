@@ -36,6 +36,3 @@ If you're just developing a non-rails app in ruby, then just import the followin
 Then enter: <b><i><code>puts #{randomStr} or puts randomStr</code></i></b> to generate random string.
 </li>
 </ul>
-## Contributing
-
-More features coming soon. Any help towards the project is appreciated.  <b>:)</b>
