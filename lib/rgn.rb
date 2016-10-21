@@ -29,7 +29,7 @@ module Rgn
 		print "Specify the name you want blacklisted: \n"
 		bannedNames = gets.chomp.to_s
 
-		if(return randomName == bannedNames)
+		if(randomName == bannedNames)
 				randomName = "default"
 				return randomName
 		end
